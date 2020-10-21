@@ -59,6 +59,10 @@ In this project, you will use tools to automate a website using Python, [View Pr
 
 In this beginner-friendly project, you will build a simple rock paper scissors game using Python, [View Project](https://github.com/sqwyer/projects/blob/main/python/ROCK_PAPER_SCISSORS.md) - Submitted by Harowo
 
+### Image Compression using K-Clustering
+
+In this beginner-friendly project, you will build a simple page to compress images by selecting no of clusters using Python , [View Project](https://github.com/sqwyer/projects/blob/main/python/Image_Compression.md) - Submitted by Astha
+
 ## C++ projects
 
 ###Text Based game
