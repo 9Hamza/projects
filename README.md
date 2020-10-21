@@ -58,3 +58,9 @@ In this project, you will use tools to automate a website using Python, [View Pr
 ### Rock Paper Scissors game
 
 In this beginner-friendly project, you will build a simple rock paper scissors game using Python, [View Project](https://github.com/sqwyer/projects/blob/main/python/ROCK_PAPER_SCISSORS.md) - Submitted by Harowo
+
+## C++ projects
+
+###Text Based game
+
+In this beginner-friendly project, you will build a text based game using C++, [View Project](https://github.com/sqwyer/projects/blob/main/C++/TEXT_BASED_GAME.md) - Submitted by Zob Alexandru
