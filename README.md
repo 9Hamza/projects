@@ -63,6 +63,10 @@ In this beginner-friendly project, you will build a simple rock paper scissors g
 
 In this beginner-friendly project, you will build a simple page to compress images by selecting no of clusters using Python , [View Project](https://github.com/sqwyer/projects/blob/main/python/Image_Compression.md) - Submitted by Astha
 
+### Image Compression using K-Clustering
+
+In this beginner-friendly project, you will get to know how a library portal works. , [View Project](https://github.com/sqwyer/projects/blob/main/python/lms_project_readme.md) - Submitted by Sanjog
+
 ## C++ projects
 
 ###Text Based game
